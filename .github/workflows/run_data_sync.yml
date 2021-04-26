@@ -105,3 +105,5 @@ jobs:
           rebase: 'true'
           name: ${{ env.GITHUB_NAME }}
           email: ${{ env.GITHUB_EMAIL }}
+          phone_number: ${{ env.phone_number }}
+          password: ${{ env.password }}
