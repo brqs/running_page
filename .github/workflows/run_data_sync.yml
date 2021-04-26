@@ -25,6 +25,8 @@ env:
   TITLE_GRID: Over 3km Runs
   GITHUB_NAME: brqs
   GITHUB_EMAIL: 3447851674@qq.com
+  phone_number: 18225934802
+  password: 342523Hsf@
 
 jobs:
   sync:
